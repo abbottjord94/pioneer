@@ -16,6 +16,8 @@ burn yourself to a crisp flying between binary star systems. You can try your
 hand at piracy, make your fortune trading between systems, or do missions for
 the various factions fighting for power, freedom or self-determination.
 
+This fork isn't really meant to contribute to the main project at this point; rather my intention is to break this game down, and perhaps remake it in my own image to some extent. If I implement any cool features though, I'm always happy to share them.
+
 For more information, see:
   http://pioneerspacesim.net/
 
